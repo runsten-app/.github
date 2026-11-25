@@ -32,4 +32,8 @@ In English, French and Swedish, on a phone and a desktop, light or dark, usable 
 - **Self-hosted**, on your own machine.
 - **Hosted**: we run it for you.
 
+## Support Runsten
+
+Runsten is free software. If it is useful to you, you can [buy us a coffee on Ko-fi](https://ko-fi.com/runstenapp): it helps keep the self-hosted version free and pays for the work on new makes.
+
 → [runsten.app](https://runsten.app) · Questions: [support@runsten.app](mailto:support@runsten.app)
